@@ -4,19 +4,19 @@
     "url": "https://servk.com",
     "icon": "https://icons.duckduckgo.com/ip3/servk.com.ico",
     "slug": "servk",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1095,
-    "timeDay": 799,
-    "timeWeek": 1031,
-    "timeMonth": 1095,
-    "timeYear": 1095,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1085,
+    "timeDay": 841,
+    "timeWeek": 1019,
+    "timeMonth": 1085,
+    "timeYear": 1085,
     "dailyMinutesDown": {
-      "2025-07-22": 0
+      "2025-07-22": 9
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://nply.eu",
     "icon": "https://icons.duckduckgo.com/ip3/nply.eu.ico",
     "slug": "nply",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1483,
-    "timeDay": 997,
-    "timeWeek": 1301,
-    "timeMonth": 1483,
-    "timeYear": 1483,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1492,
+    "timeDay": 1210,
+    "timeWeek": 1338,
+    "timeMonth": 1492,
+    "timeYear": 1492,
     "dailyMinutesDown": {
-      "2025-07-22": 0
+      "2025-07-22": 9
     }
   }
 ]
