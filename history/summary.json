@@ -4,35 +4,39 @@
     "url": "https://servk.com",
     "icon": "https://icons.duckduckgo.com/ip3/servk.com.ico",
     "slug": "servk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1100,
-    "timeDay": 1080,
-    "timeWeek": 993,
-    "timeMonth": 1100,
-    "timeYear": 1100,
-    "dailyMinutesDown": {}
+    "time": 1075,
+    "timeDay": 809,
+    "timeWeek": 948,
+    "timeMonth": 1075,
+    "timeYear": 1075,
+    "dailyMinutesDown": {
+      "2025-07-25": 0
+    }
   },
   {
     "name": "nply",
     "url": "https://nply.eu",
     "icon": "https://icons.duckduckgo.com/ip3/nply.eu.ico",
     "slug": "nply",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1460,
-    "timeDay": 1186,
-    "timeWeek": 1299,
-    "timeMonth": 1460,
-    "timeYear": 1460,
-    "dailyMinutesDown": {}
+    "time": 1421,
+    "timeDay": 896,
+    "timeWeek": 1230,
+    "timeMonth": 1421,
+    "timeYear": 1421,
+    "dailyMinutesDown": {
+      "2025-07-25": 0
+    }
   }
 ]
