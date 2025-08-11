@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/servk.com.ico",
     "slug": "servk",
     "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.85%",
+    "uptime": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.87%",
     "time": 1057,
     "timeDay": 913,
     "timeWeek": 1070,
     "timeMonth": 1053,
     "timeYear": 1057,
     "dailyMinutesDown": {
-      "2025-08-10": 10,
       "2025-07-26": 63
     }
   },
@@ -26,18 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/nply.eu.ico",
     "slug": "nply",
     "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.85%",
+    "uptime": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.87%",
     "time": 1316,
     "timeDay": 1188,
     "timeWeek": 1339,
     "timeMonth": 1276,
     "timeYear": 1316,
     "dailyMinutesDown": {
-      "2025-08-10": 10,
       "2025-07-26": 63
     }
   }
